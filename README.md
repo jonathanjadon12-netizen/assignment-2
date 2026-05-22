@@ -1,7 +1,3 @@
-# README Content for All Project Folders
-
-## Root Project: assignment-2
-
 # Assignment 2
 
 This repository contains practice projects and assignments developed across multiple weeks while learning JavaScript, Node.js, Express.js, and MongoDB. The project is organized into folders based on weekly topics and backend applications.
